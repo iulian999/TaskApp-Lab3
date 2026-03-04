@@ -73,3 +73,28 @@ li {
   border-bottom: 1px solid #eee;
   font-size: 14px;
 }
+
+button:hover {
+  background-color: #1a5276;
+  transform: scale(1.02);
+}
+
+input[type="text"]:focus {
+  border: 2px solid #2e74b5;
+  outline: none;
+  background-color: #f0f7ff;
+}
+
+footer {
+  background-color: #2e74b5;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 40px;
+  font-size: 13px;
+}
+
+li:hover {
+  background-color: #deeaf1;
+  cursor: pointer;
+}
