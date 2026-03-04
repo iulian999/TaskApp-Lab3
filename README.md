@@ -15,3 +15,6 @@ Aplicatie simpla de gestionare a sarcinilor dezvoltata in HTML, CSS si JavaScrip
 ## Autor
 Dorogoi Iulian
 Laborator 3 — Sisteme VCS
+
+## Versiune
+v1.1 - README actualizat
